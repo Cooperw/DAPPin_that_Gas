@@ -5,8 +5,8 @@ A C2 solution that lives in the blockchain as a DAPP.
 
 Core Contents:
 * [SpectralCommandRelay.sol](./contracts/SpectralCommandRelay.sol): Smart Contract that can be deployed to the blockchain to act as a C2 channel
-* [bot_deployer.py](./bots/bot_deployer.py): Script that generates & manages a local botnet
 * [bot_minimal.py](./bots/bot_minimal.py): An incredibly simple endpoint for our C2 blockchain solution to be run on infected devices
+* [bot_deployer.py](./bots/bot_deployer.py): Script that generates & manages a local botnet
 * [bot_template.py](./bots/bot_template.py): Template for a more advanced endpoint for our C2 blockchain solution to be run on infected devices
 
 Demo Contents:
