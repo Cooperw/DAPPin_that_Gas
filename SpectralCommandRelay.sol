@@ -4,6 +4,7 @@ pragma experimental ABIEncoderV2;
 
 /**
  * @title SpectralCommandRelay
+ * @author shiloh
  */ 
     
 /*
