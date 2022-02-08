@@ -1,4 +1,4 @@
-# DAPPin that A$$ | A Blockchain Enabled C2 Solution
+# DAPPin that Gas | A Blockchain Enabled C2 Solution
 
 
 A C2 solution that lives in the blockchain as a DAPP.
@@ -14,7 +14,7 @@ Demo Contents:
 * [cleanup.sh](./demo/cleanup.sh): Script to cleanup any lingering meterpreter sessions after our demo
 
 Presentation Contents:
-* [DAPPin_that_A$$_DEFCON_Submission_BlockchainC2.pptx](./demo/DAPPin_that_A$$_DEFCON_Submission_BlockchainC2.pptx): The powerpoint we sent to the DEFCON Talks Panel
+* [DAPPin_that_Gas_DEFCON_Submission_BlockchainC2.pptx](./demo/DAPPin_that_Gas_DEFCON_Submission_BlockchainC2.pptx): The powerpoint we sent to the DEFCON Talks Panel
 
 
 
